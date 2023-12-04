@@ -5,11 +5,11 @@
 This repository contains the code for our paper: U3D Contour Generation based on Diffusion Probabilistic Models
 
 <div align="center">
-<img src="https://github.com/djzgroup/ContourGeneration/images/Pipeline.png" width="70%" height="70%"><br><br>
+<img src="https://github.com/djzgroup/ContourGeneration/tree/main/images/Pipeline.png" width="70%" height="70%"><br><br>
 </div>
 
 <div align="center">
-<img src="https://github.com/djzgroup/ContourGeneration/images/VisualizationResults.png" width="70%" height="70%"><br><br>
+<img src="https://github.com/djzgroup/ContourGeneration/tree/main/images/VisualizationResults.png" width="70%" height="70%"><br><br>
 </div>
 
 ## Environment setup
